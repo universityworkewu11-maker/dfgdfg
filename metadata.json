@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Profile Analyzer",
+  "description": "An interactive, full-stack application that analyzes GitHub profiles and repositories, offering professional developer audits and detailed code summaries with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
